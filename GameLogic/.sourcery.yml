@@ -1,0 +1,12 @@
+sources:
+  include:
+    - .
+  exclude:
+    - Sources/GameLogic/Generated
+templates:
+  - ../Tools/Sourcery/Templates
+output:
+  Sources/GameLogic/Generated
+args:
+  imports: ["Foundation"]
+  testable-imports: []

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TicTacToe/TicTacToe.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UI">
+   </FileRef>
+   <FileRef
+      location = "group:CLI">
+   </FileRef>
+   <FileRef
+      location = "group:DumbOpponent">
+   </FileRef>
+   <FileRef
+      location = "group:IntelligentOpponent">
+   </FileRef>
+   <FileRef
+      location = "group:GameLogic">
+   </FileRef>
+</Workspace>
